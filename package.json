@@ -1,6 +1,6 @@
 {
   "name": "@elonehoo/chii",
-  "version": "1.15.5",
+  "version": "1.15.5.1",
   "description": "Chrome devtools framework",
   "main": "./server/index.js",
   "bin": {
